@@ -1,0 +1,8 @@
+digraph directed {  
+edge [fontname="FangSong"]; 
+{
+    a -> b;  
+    a -> c -> d [color=red,penwidth=3.0];  
+    c -> e[label="р╤вс"];
+}
+}
